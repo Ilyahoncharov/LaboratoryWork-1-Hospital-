@@ -1,0 +1,1 @@
+{"doctors":[{"name":"Олег","specialization":"Хірург"}],"patients":[{"name":"Ілля","age":18,"diagnosis":"Голова"}],"appointments":[{"doctor":{"name":"Олег","specialization":"Хірург"},"patient":{"name":"Ілля","age":18,"diagnosis":"Голова"},"date":"2009-12-02"}]}

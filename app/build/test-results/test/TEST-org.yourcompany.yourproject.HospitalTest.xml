@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.yourcompany.yourproject.HospitalTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-04-07T08:54:31.936Z" hostname="MacBook-Pro-ilya.local" time="0.023">
+  <properties/>
+  <testcase name="testAddAppointment()" classname="org.yourcompany.yourproject.HospitalTest" time="0.009"/>
+  <testcase name="testGetPatientById()" classname="org.yourcompany.yourproject.HospitalTest" time="0.0"/>
+  <testcase name="testDoctorEquality()" classname="org.yourcompany.yourproject.HospitalTest" time="0.001"/>
+  <testcase name="testGetDoctorById()" classname="org.yourcompany.yourproject.HospitalTest" time="0.0"/>
+  <testcase name="testAddDoctor()" classname="org.yourcompany.yourproject.HospitalTest" time="0.0"/>
+  <testcase name="testAddPatient()" classname="org.yourcompany.yourproject.HospitalTest" time="0.001"/>
+  <testcase name="testGetAppointmentById()" classname="org.yourcompany.yourproject.HospitalTest" time="0.001"/>
+  <testcase name="testPatientEquality()" classname="org.yourcompany.yourproject.HospitalTest" time="0.001"/>
+  <testcase name="testAppointmentToString()" classname="org.yourcompany.yourproject.HospitalTest" time="0.006"/>
+  <system-out><![CDATA[Doctor.equals called
+Doctor.hashCode called
+Doctor.hashCode called
+equals called
+hashCode called
+hashCode called
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
